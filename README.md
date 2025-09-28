@@ -16,7 +16,7 @@ A creative designer & developer who loves to build beautiful things with code. �
 - **Style and Schedule** (open source project)  
 
 ### 👨‍💻 All of my projects are available at my Portfolio  
-👉 Hamza Portfolio(https:/hamza31.netlify.app)  
+👉 [Hamza Portfolio](https:/hamza31.netlify.app)  
 
 ### 💬 Ask me about  
 - **AI, MySQL,Web Design,Web Dev,Chatbots,Python Assistents**  
