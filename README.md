@@ -1,76 +1,18 @@
-# 👋 Hello — I’m Hamza
-**I am Hamza** — a creative developer who *loves building beautiful things with code*.  
-I design animated, colorful, and interactive user experiences that make products feel alive.  
 
-> ✨ *“Design isn’t just how it looks — it’s how it moves.”*
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hamza Younus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/exhamza604) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzaif) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@exhamza604) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Tinkoplayz) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sujaynadkarni&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sujaynadkarni&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujaynadkarni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🚀 What I do
-- Build sleek, responsive web apps and UI components with polished animations and micro-interactions.  
-- Turn design ideas into production-ready code with attention to color, timing, and motion.  
-- Create portfolio pieces that are both functional and delightful to use.
-
----
-
-## 🔧 Skills & Tools
-- **Frontend:** HTML · CSS · JavaScript · TypeScript  
-- **Frameworks:** React · Next.js · Vue (pick yours)  
-- **Animations:** CSS Animations · Framer Motion · GSAP · Lottie  
-- **Design / UI:** Figma · Tailwind CSS · SVG / Icon Design  
-- **Other:** Node.js · Express · Python (basics) · Git & GitHub
-
-**Animated / visual focus:**  
-- Micro-interactions, animated SVGs, loader & hover animations, color systems, dynamic themes.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sujaynadkarni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sujaynadkarni&icon=1&color=0)](https://visitcount.itsvg.in)
 
-## 🎨 Signature Style
-- Bold, clean layouts with expressive color palettes.  
-- Smooth motion and meaningful transitions that guide the user.  
-- Icons & subtle shadows to add depth without distraction.
-
----
-
-## 💼 Experience
-**Frontend Developer (freelance / personal projects)**  
-- Built animated landing pages, portfolio galleries, and UI kits.  
-- Implemented Lottie animations and GSAP scenes for immersive storytelling.  
-- Improved usability and visual polish that boosted engagement on demo projects.
-
----
-
-## 🧩 Selected Projects
-- **ColorFlow UI** — animated component library (buttons, loaders, cards) with theme switch.  
-- **MotionPortfolio** — interactive portfolio with animated route transitions and SVG reveals.  
-- **NeonShop (demo)** — product cards with hover animations & micro-interactions.
-
-*(Add links to projects and live demos below — they look great with GIF previews!)*
-
----
-
-## 📫 Contact
-- Email: `your.email@example.com`  
-- Twitter / X: [@yourhandle](https://twitter.com/yourhandle)  
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)  
-- Portfolio: `https://your-portfolio.example.com`
-
----
-
-## ✨ GitHub Profile Extras (drop these in your profile README)
-<!-- Animated GIF / hero -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="animated hero" width="520"/>
-</p>
-
-<!-- Badges (replace <YOUR_USERNAME>) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="js" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" alt="react" />
-  <img src="https://img.shields.io/badge/-Framer_Motion-000000?logo=framer&logoColor=white" alt="framer" />
-  <img src="https://img.shields.io/github/followers/<YOUR_USERNAME>?label=Follow&style=social" alt="follow" />
-</p>
-
----
-
-## 🔁 Animated GitHub Stats (optional)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
