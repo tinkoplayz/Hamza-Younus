@@ -57,24 +57,24 @@ A passionate **Full Stack Developer** from **Pakistan!** 🌍
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=<YOUR_USERNAME>&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tinkoplayz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tinkoplayz&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 <!-- Animated Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinkoplayz&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
 
 <!-- Profile Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=<YOUR_USERNAME>&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tinkoplayz&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-⭐️ From [Hamza Younus](https://github.com/<YOUR_USERNAME>)
+⭐️ From [Hamza Younus](https://github.com/tinkoplayz)
