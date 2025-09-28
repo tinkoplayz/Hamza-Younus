@@ -1,32 +1,31 @@
 # **Hi 👋, I'm Hamza Younus**  
-A passionate **Full Stack Developer** from **Pakistan!** 🌍  
+A creative designer & developer who loves to build beautiful things with code. 🌍  
 
 ---
 
 ### 🔭 I’m currently working on  
-- Building **AI Startup ZentaCode** 🚀  
+- Building **AI Startup** 🚀  
 
 ### 🌱 I’m currently learning  
 - Python 🐍  
-- PyTorch 🔥  
+- Html 🔥
+- JAVA ☕
+- CSS 🎨
 
 ### 👯 I’m looking to collaborate on  
 - **Style and Schedule** (open source project)  
 
-### 🤝 I’m looking for help with  
-- **Al-Razi Cloud Code Editor** ☁️💻  
-
 ### 👨‍💻 All of my projects are available at  
-👉 [https://studily.me/chohanorganicfood/](https://studily.me/chohanorganicfood/)  
+👉 [https:/hamza31.netlify.app](https:/hamza31.netlify.app)  
 
 ### 💬 Ask me about  
-- **AI, PHP, MySQL, Laravel, NodeJS, Express**  
+- **AI, MySQL,Web Design,Web Dev,Chatbots,Python Assistents**  
 
 ### 📫 How to reach me  
 📧 **hy720872@gmail.com**  
 
 ### ⚡ Fun fact  
-😅 *I change Linux Distro every two months!*  
+😅 *I make AI based Websites in every week!*  
 
 ---
 
